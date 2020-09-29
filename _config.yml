@@ -32,7 +32,7 @@ social-network-links:
 
 # Build settings
 markdown: kramdown
-theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll
 
 plugins:
   - jekyll-feed
