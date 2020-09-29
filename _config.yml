@@ -13,23 +13,29 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Remotemasters.club
+navbar-links:
+  About: "about"
+title: "RemoteMasters"
 email: hello@remotemasters.club
 description: >- # this means to ignore newlines until "baseurl:"
- Secret community of software professionals running (or planning to run) distributed development teams.
-
+  RemoteMasters Club was started as a way to help all of us improve our skills at running distributed software development teams. We curate news, collect best practices, and facilitate peer collaboration.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: remotemasters
-instagram_username:  kiosan1
+twitter_username: jekyllrb
+github_username:  jekyll
+avatar: "/assets/img/r.jpeg"
+social-network-links:
+  email: "hello@remotemasters.club"
+  twitter: remote_masters
+  linkedin: "../groups/12464287/"
+  telegram: "remotemasters"
 
 # Build settings
 markdown: kramdown
-# theme: minima
+theme: beautiful-jekyll-theme
+
 plugins:
   - jekyll-feed
-
-theme: jekyll-theme-minimal
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
