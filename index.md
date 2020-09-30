@@ -56,3 +56,10 @@ Join our mailing list to get a weekly newsletter with curated news on remote wor
 <p>
 If email is not really your thing, you can also join our <a href="https://www.linkedin.com/groups/12464287/" target="_blank">group on LinkedIn</a>, our <a href="https://t.me/remotemasters" target="_blank">Telegram channel</a> or follow <a href="https://twitter.com/remote_masters" target="_blank">RemoteMasters on Twitter</a>.
 </p>
+
+<p>
+<div class="page-heading">
+<hr class="small">
+<h1 style='text-align: center;'>🧢</h1>
+</div>
+</p>
