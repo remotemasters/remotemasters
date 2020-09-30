@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: RemoteMasters Club
+title: RemoteMasters Club 🧢
 subtitle: "A community of software professionals running (or planning to run) distributed development teams."
 share-title: "RemoteMasters Club - a community of software professionals running (or planning to run) distributed development teams."
 share-description: "Join our mailing list to get a weekly newsletter with curated news on remote work and hand-picked materials with tips on managing distributed engineering teams"
