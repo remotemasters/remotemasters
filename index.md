@@ -8,7 +8,7 @@ share-title: "RemoteMasters Club - a community of software professionals running
 share-description: "Join our mailing list to get a weekly newsletter with curated news on remote work and hand-picked materials with tips on managing distributed engineering teams"
 ---
 
-<form class="tl" action="https://tinyletter.com/remotemasters" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/remotemasters', 'popupwindow', 'scrollbars=yes,width=800,height=400');return true">
+<form class="tl" action="https://tinyletter.com/remotemasters" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/remotemasters', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
 
 <input type="submit" value="Subscribe" id='tlsubmit'/>
 <input type="text" style="" name="email" id="tlemail" placeholder="mail@remotemasters.club" />
@@ -45,7 +45,7 @@ Join our mailing list to get a weekly newsletter with curated news on remote wor
 
 </p>
 
-<form class="tl" action="https://tinyletter.com/remotemasters" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/remotemasters', 'popupwindow', 'scrollbars=yes,width=800,height=400');return true">
+<form class="tl" action="https://tinyletter.com/remotemasters" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/remotemasters', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
 
 <input type="submit" value="Subscribe" id='tlsubmit'/>
 <input type="text" style="" name="email" id="tlemail" placeholder="mail@remotemasters.club" />
