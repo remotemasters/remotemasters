@@ -24,6 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 avatar: "/assets/img/r.jpeg"
+site-css: "/assets/css/custom-styles.css"
 social-network-links:
   email: "hello@remotemasters.club"
   twitter: remote_masters

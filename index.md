@@ -8,8 +8,13 @@ share-title: "RemoteMasters Club - a community of software professionals running
 share-description: "Join our mailing list to get a weekly newsletter with curated news on remote work and hand-picked materials with tips on managing distributed engineering teams"
 ---
 
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/remotemasters" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/remotemasters', 'popupwindow', 'scrollbars=yes,width=800,height=400');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+<form class="tl" action="https://tinyletter.com/remotemasters" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/remotemasters', 'popupwindow', 'scrollbars=yes,width=800,height=400');return true">
 
+<input type="submit" value="Subscribe" id='tlsubmit'/>
+<input type="text" style="" name="email" id="tlemail" placeholder="mail@remotemasters.club" />
+<input type="hidden" value="1" name="embed"/>
+</form>
+<div class='clear'></div>
 <p>
 Remote work has being gaining in popularity for many years, gradually convincing skeptics and overcoming resistance of corporate management.
 </p>
@@ -40,7 +45,13 @@ Join our mailing list to get a weekly newsletter with curated news on remote wor
 
 </p>
 
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/remotemasters" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/remotemasters', 'popupwindow', 'scrollbars=yes,width=800,height=400');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+<form class="tl" action="https://tinyletter.com/remotemasters" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/remotemasters', 'popupwindow', 'scrollbars=yes,width=800,height=400');return true">
+
+<input type="submit" value="Subscribe" id='tlsubmit'/>
+<input type="text" style="" name="email" id="tlemail" placeholder="mail@remotemasters.club" />
+<input type="hidden" value="1" name="embed"/>
+</form>
+<div class='clear'></div>
 
 <p>
 If email is not really your thing, you can also join our <a href="https://www.linkedin.com/groups/12464287/" target="_blank">group on LinkedIn</a>, our <a href="https://t.me/remotemasters" target="_blank">Telegram channel</a> or follow <a href="https://twitter.com/remote_masters" target="_blank">RemoteMasters on Twitter</a>.
