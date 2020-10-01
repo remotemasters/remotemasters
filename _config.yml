@@ -34,6 +34,7 @@ social-network-links:
 # Build settings
 markdown: kramdown
 remote_theme: daattali/beautiful-jekyll
+gtag: 'GTM-P7W23SD'
 
 plugins:
   - jekyll-feed
