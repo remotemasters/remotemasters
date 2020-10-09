@@ -46,7 +46,7 @@ Join our mailing list to get a weekly newsletter roundup of hand-picked news and
 <div class='clear'></div>
 
 <p>
-If email is not really your thing, you can also join our <a href="https://www.linkedin.com/groups/12464287/" target="_blank">group on LinkedIn</a>or our <a href="https://t.me/remotemasters" target="_blank">Telegram channel</a>, or follow <a href="https://twitter.com/remote_masters" target="_blank">RemoteMasters on Twitter</a>.
+If email is not really your thing, you can also join our <a href="https://www.linkedin.com/groups/12464287/" target="_blank">group on LinkedIn</a> or our <a href="https://t.me/remotemasters" target="_blank">Telegram channel</a>, or follow <a href="https://twitter.com/remote_masters" target="_blank">RemoteMasters on Twitter</a>.
 </p>
 
 <p>
